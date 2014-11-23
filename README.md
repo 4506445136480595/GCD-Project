@@ -13,7 +13,7 @@ The code book describes the variables, the data, and  transformations performed 
 
 README.md
 ---------
-This file: description of the contents of the GCD-Project repository.
+This file describes the contents of the GCD-Project repository.
 
 
 
